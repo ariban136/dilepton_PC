@@ -7,7 +7,7 @@ The data files related to the work:
 arXiv:2604.21633 [hep-ph] (2026)
 https://arxiv.org/abs/2604.21633
 
-are organized as follows. Each figure has a corresponding zip file (fig02.zip, fig03.zip, ..., fig08.zip) containing all the relevant datafiles. The naming convention and column descriptions for each figure are detailed below.
+are organized as follows. Each figure has a corresponding zip file (fig2.zip, fig3.zip, ..., fig7and8.zip) containing all the relevant datafiles. The naming convention and column descriptions for each figure are detailed below.
 
 ---
 
@@ -25,7 +25,7 @@ Readers are encouraged to cite the paper if this data is used in their work.
 ---
 
 ###########################
-## Fig. 2 — fig02.zip
+## Fig. 2 — fig2.zip
 ###########################
 
 **Description:** The effective quark mass M as a function of temperature T (upper-left, upper-right, and lower-left panels) and baryon chemical potential μB (lower-right panel) within the SU(2) NJL model at finite isospin asymmetry, for three values of the isoscalar-vector coupling GV = 0, 0.5 GS, and GS.
@@ -67,7 +67,7 @@ Readers are encouraged to cite the paper if this data is used in their work.
 ---
 
 ###########################
-## Fig. 3 — fig03.zip
+## Fig. 3 — fig3.zip
 ###########################
 
 **Description:** The pion condensate Δ as a function of temperature T (upper-left, upper-right, and lower-left panels) and isospin chemical potential μI/mπ (lower-right panel) within the SU(2) NJL model, for GV = 0, 0.5 GS, and GS. All T-dependent panels are at fixed μI = 0.25 GeV; the lower-right panel is at fixed T = 0.1 GeV.
@@ -100,7 +100,7 @@ Readers are encouraged to cite the paper if this data is used in their work.
 ---
 
 ###########################
-## Fig. 4 — fig04.zip
+## Fig. 4 — fig4.zip
 ###########################
 
 **Description:** The vector condensate ΣV as a function of temperature T (left and middle panels) and baryon chemical potential μB (right panel) within the SU(2) NJL model. Only GV = 0.5 GS and GV = GS are considered since GV = 0 yields a vanishing vector condensate.
@@ -128,7 +128,7 @@ Readers are encouraged to cite the paper if this data is used in their work.
 ---
 
 ###########################
-## Fig. 5 — fig05.zip
+## Fig. 5 — fig5.zip
 ###########################
 
 **Description:** The T–μI phase diagram for three values of the isoscalar-vector coupling: GV = 0 (left), GV = 0.5 GS (middle), and GV = GS (right). Each file contains either the chiral crossover boundary (suffix Ch) or the pion condensation phase boundary (suffix Pc) for a given μB and GV.
@@ -162,7 +162,7 @@ Readers are encouraged to cite the paper if this data is used in their work.
 ---
 
 ###########################
-## Fig. 6 — fig06.zip
+## Fig. 6 — fig6.zip
 ###########################
 
 **Description:** DPR as a function of the invariant mass Q at fixed T = 0.1 GeV, μB = 0, and GV = 0, for three values of the dilepton three-momentum q = 0, 0.2 GeV, and 0.6 GeV, and two values of the isospin chemical potential μI = 0 (uncondensed) and μI = 0.25 GeV (pion-condensed).
